@@ -1,0 +1,18 @@
+.buy_btn{
+    background-color: rgba(43, 72, 236, 0.863) !important;
+    padding: 10px 25px;
+}
+.buy_btn-{
+    background-color: rgba(188, 191, 209, 0.863) !important;
+    padding: 10px 25px;
+}
+.is-1{
+    transition: 0.2s;
+    
+}
+
+.is-1:hover{
+    transform: translate(0, -5px);
+    box-shadow: 0 15px 30px -10px rgba(32, 32, 32, 0.507);
+    cursor: pointer;
+}
